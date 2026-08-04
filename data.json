@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-07-31T00:00:00+02:00",
+  "lastUpdated": "2026-08-04T15:12:11+02:00",
   "active": [],
   "archive": [],
-  "notControlled": []
+  "notControlled": [
+    {
+      "bedrijf": "Heineken",
+      "titel": "Careers site (algemeen) - locatie/functie filters werken niet",
+      "reden": "Op careers.theheinekencompany.com verandert het selecteren van 'Netherlands' als locatie niets aan de resultatenlijst (blijft 776 wereldwijde vacatures tonen, incl. Brazilië/Zuid-Afrika/etc.). Aanvullende WebSearch leverde geen senior strategy/chief of staff/marketing rol in Nederland op.",
+      "link": "https://careers.theheinekencompany.com/Job-Listing"
+    },
+    {
+      "bedrijf": "Ahold Delhaize",
+      "titel": "Careers site (algemeen) - zoekfilter en paginering werken niet",
+      "reden": "Op careers.aholddelhaize.com geven de zoekopdrachten 'strategy' en 'chief of staff' exact dezelfde 24 resultaten (vrijwel allemaal Finance/Tech, geen Marketing/Commerce zichtbaar), en ook ?page=2 toont dezelfde eerste pagina. De eerder gevonden vacature 'Director Strategy (Digital & eCommerce Growth)' (ID 2071) geeft nu een 404.",
+      "link": "https://careers.aholddelhaize.com/vacancies/global-brands/ahold-delhaize-1"
+    },
+    {
+      "bedrijf": "bol.com",
+      "titel": "Careers site (algemeen) - resultaten niet betrouwbaar te verifiëren",
+      "reden": "careers.bol.com/en/jobs toont via geautomatiseerde paginalezing steeds maar 1 vacature-kaart, ook na het intypen van een zoekterm; kon actuele openstaande rollen niet betrouwbaar verifiëren. Via Top of Minds (recruiter) is een 'Director Strategy & Business Development'-vacature bij bol.com gevonden, maar deze staat vermeld als 'filled'.",
+      "link": "https://careers.bol.com/en/jobs/"
+    },
+    {
+      "bedrijf": "Unilever",
+      "titel": "Careers site (algemeen) - zoekfunctie reageert niet",
+      "reden": "Op careers.unilever.com laadt de keyword-zoekbalk na intypen en enter altijd terug naar de generieke homepage in plaats van gefilterde resultaten te tonen. Kon actuele NL strategy/marketing/chief of staff-vacatures niet via de site verifiëren. Let op: controleer bij een volgende run opnieuw of Unilever's Rusland-afstoting (okt 2024) nog steeds geen actieve uitsluitingsreden is.",
+      "link": "https://careers.unilever.com/en/netherlands"
+    },
+    {
+      "bedrijf": "Basic-Fit",
+      "titel": "Careers site (algemeen) - zoekfunctie en paginering werken niet",
+      "reden": "Op basicfit.wd103.myworkdayjobs.com blijft de resultatenlijst (82 vacatures, hoofdzakelijk gym floor/retail) exact hetzelfde staan na het intypen van een zoekterm én na het klikken op 'pagina 2'. Kon niet door alle 82 vacatures heen bladeren om te checken of er een corporate strategy/commercial rol in Hoofddorp tussen zit. Let op: de eerder gebruikte wd3-subdomein (basicfit.wd3.myworkdayjobs.com) is momenteel in onderhoud/niet bereikbaar; wd103 is het werkende domein.",
+      "link": "https://basicfit.wd103.myworkdayjobs.com/nl-NL/BasicFit_Career_Site_NL"
+    }
+  ]
 }
