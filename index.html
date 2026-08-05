@@ -65,6 +65,7 @@
 <body>
   <h1>Vacature-tracker</h1>
   <p class="meta">Laatst bijgewerkt: <span id="lastUpdated">–</span></p>
+  <p class="meta" id="lastCheckNote" style="display:none;"></p>
 
   <button id="installBtn" style="display:none;">App installeren</button>
   <div class="toggle-row">
@@ -91,7 +92,7 @@
     <div id="archiveCards"></div>
   </details>
 
-  <p class="version">v1.0</p>
+  <p class="version">v1.1</p>
 
 <script>
 const VAPID_PUBLIC_KEY = "BJ9LsXBpKr_THPpoA6ngAYdfvNDXxi-xdhc-UWpERQeC83zmEVivkVxLo-7arWVEm9MGLrnDdKwf6TW7NnRF-nU";
@@ -120,6 +121,20 @@ async function loadData() {
   document.getElementById("lastUpdated").textContent = new Date(data.lastUpdated).toLocaleString("nl-NL", {
     year: "numeric", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit"
   });
+
+  // lastCheckNote is an optional one-liner the check writes every run (e.g.
+  // "12 bronnen gecheckt, geen nieuwe matches") so the page never just looks
+  // silently empty/abandoned when there happens to be nothing new — without
+  // this, an empty "Actief" list is indistinguishable from "the check never
+  // ran". Hidden entirely when absent, so older data.json snapshots (or a
+  // manual edit) without this field still render fine.
+  const noteEl = document.getElementById("lastCheckNote");
+  if (data.lastCheckNote) {
+    noteEl.textContent = data.lastCheckNote;
+    noteEl.style.display = "block";
+  } else {
+    noteEl.style.display = "none";
+  }
 
   renderActive(data.active);
   renderNotControlled(data.notControlled);
