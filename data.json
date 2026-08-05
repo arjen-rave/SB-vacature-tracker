@@ -2,6 +2,19 @@
   "lastUpdated": "2026-08-05T07:45:00+02:00",
   "lastCheckNote": "12 bronnen gecheckt (11 bedrijven + Top of Minds), geen nieuwe matches gevonden.",
   "active": [],
-  "archive": [],
+  "archive": [
+    {
+      "bedrijf": "FrieslandCampina",
+      "titel": "Director of Corporate Strategy",
+      "reden": "Vacature is vervuld (via Top of Minds, geverifieerd 4 augustus 2026: \"This vacancy has been filled\"). Dit was de rol waar SB's cv oorspronkelijk specifiek voor was toegespitst.",
+      "datum": "2026-08-04"
+    },
+    {
+      "bedrijf": "Little Dutch",
+      "titel": "Marketing Director",
+      "reden": "Vacature is vervuld (via Top of Minds, geverifieerd 4 augustus 2026: \"This vacancy has been filled\").",
+      "datum": "2026-08-04"
+    }
+  ],
   "notControlled": []
 }
