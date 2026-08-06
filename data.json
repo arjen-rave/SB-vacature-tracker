@@ -1,7 +1,44 @@
 {
-  "lastUpdated": "2026-08-05T07:45:00+02:00",
-  "lastCheckNote": "12 bronnen gecheckt (11 bedrijven + Top of Minds), geen nieuwe matches gevonden.",
-  "active": [],
+  "lastUpdated": "2026-08-06T17:30:00+02:00",
+  "lastCheckNote": "12 bronnen gecheckt (11 bedrijven + Top of Minds), 4 nieuwe matches toegevoegd.",
+  "active": [
+    {
+      "bedrijf": "Roland Berger",
+      "titel": "Chief of Staff (Consumer Goods, Retail & Agriculture platform)",
+      "link": "https://topofminds.com/en/vacancy-chief-of-staff-roland-berger/",
+      "beschrijving": "Chief of Staff voor Alexander Belderok, Platform Head van Roland Bergers wereldwijde Consumer Goods, Retail & Agriculture-platform: eigenaar van de operationele backbone (business reviews, commercial pipeline, budgetten, MT-voorbereiding) en strategische rechterhand die knelpunten signaleert voordat ze escaleren. Amsterdam, vanaf 7 jaar ervaring, af en toe reizen.",
+      "fit": "Sterke match: consulting-achtergrond expliciet vereist, affiniteit met retail/consumer goods een harde eis, en een consulting-exit-vriendelijke Chief of Staff-rol bij het platform dat zij als voormalig consultant zelf zou herkennen. Geen expliciete people-management-eis (rechterhand-rol zonder teamleiding) — vergelijkbaar met haar eerdere 0,5FTE CoS-ervaring voor de European Cyber leader.",
+      "status": "Niet gesolliciteerd",
+      "tags": ["chief of staff", "consumer goods", "retail", "strategy consulting", "senior"]
+    },
+    {
+      "bedrijf": "Unidex",
+      "titel": "Sales Director Retail",
+      "link": "https://topofminds.com/vacature-sales-director-retail-unidex/",
+      "beschrijving": "Eindverantwoordelijk voor de Europese retailtak van dit familiebedrijf in exotische levensmiddelen (supermarktketens in Nederland, België, VK, Duitsland, Polen, Frankrijk): ontwikkelt de retailstrategie samen met de CCO (rechtstreekse rapportagelijn), professionaliseert het salesteam (3 accountmanagers + 5 backoffice) en stuurt de Europese expansie. De Zilk, vanaf 10 jaar ervaring in consumentengoederen, leidinggevende ervaring vereist.",
+      "fit": "Past bij 'strategische rol binnen business development/sales' met duidelijke teamleiding en directe rapportage aan de CCO — dichter bij commerciële strategie-ontwikkeling dan bij hands-on winkelexploitatie (in tegenstelling tot de eerder afgekeurde Sales Director Benelux-rol bij Holland & Barrett). De Zilk ligt ~45 min van Amsterdam, binnen het reistijdcriterium.",
+      "status": "Niet gesolliciteerd",
+      "tags": ["consumer goods", "sales strategy", "business development", "team lead", "senior"]
+    },
+    {
+      "bedrijf": "PF Concept",
+      "titel": "Marketing Director",
+      "link": "https://topofminds.com/en/vacature-marketing-director-pf-concept/",
+      "beschrijving": "Marketing Director voor deze Europese marktleider in promotieartikelen (B2B2B-model, 200+ miljoen euro omzet, 10.000+ distributeurs): eigenaar van de commerciële groeiagenda (klantbetrokkenheid, distributeur-acquisitie, share of wallet), vertaalt de duurzaamheidsstrategie naar een propositie voor distributeurs, en geeft leiding aan een team van circa 10 marketingprofessionals. Leiden, rapporteert aan de CCO, vanaf 10 jaar B2B-marketingervaring.",
+      "fit": "Sterke match op senioriteit (Director, rechtstreeks aan CCO), teamleiding (10 FTE, uitdrukkelijk gevraagd als 'coaching people leader') en de combinatie van strategie en commerciële executie. Leiden ligt ~35 min van Amsterdam.",
+      "status": "Niet gesolliciteerd",
+      "tags": ["marketing strategy", "b2b", "team lead", "senior", "consumer"]
+    },
+    {
+      "bedrijf": "Verisure",
+      "titel": "Business Planning & Transformation Lead – Netherlands",
+      "link": "https://topofminds.com/en/vacancy-business-planning-and-transformation-lead-nl-verisure/",
+      "beschrijving": "Rechterhand van de Managing Director NL bij deze beursgenoteerde Europese marktleider in beveiligingssystemen (doel: Nederlandse business verdrievoudigen tegen 2028): eigenaar van strategische end-to-end initiatieven op marketing, sales, alliances, portfolio en operations, met stakeholdermanagement op land- en groepsniveau. Amsterdam, expliciet gepositioneerd als opstap naar senior management/CEO-office, vanaf 4 jaar top-tier strategy consulting gevraagd.",
+      "fit": "Directe consulting-exit-rol met expliciet genoemd groeipad naar senior leiderschap; combineert strategie-ontwikkeling met executie dicht bij de directie — vergelijkbaar met SB's ervaring bij Deloitte. Geen expliciete teamleiding vermeld.",
+      "status": "Niet gesolliciteerd",
+      "tags": ["strategy", "transformation", "consulting exit", "senior"]
+    }
+  ],
   "archive": [
     {
       "bedrijf": "FrieslandCampina",
@@ -14,6 +51,30 @@
       "titel": "Marketing Director",
       "reden": "Vacature is vervuld (via Top of Minds, geverifieerd 4 augustus 2026: \"This vacancy has been filled\").",
       "datum": "2026-08-04"
+    },
+    {
+      "bedrijf": "Holland & Barrett",
+      "titel": "Sales Director Benelux",
+      "reden": "Live vacature (Amsterdam, via Top of Minds), maar inhoudelijk een hands-on retail-operationsrol die 'senior retail leadership experience in a complex multi-site environment' vraagt (winkelstandaarden, logistiek, multi-site aansturing) — reëel ervaringsgat gegeven SB's strategy-consulting achtergrond zonder operationele retail-leiding.",
+      "datum": "2026-08-06"
+    },
+    {
+      "bedrijf": "Brand Masters",
+      "titel": "Chief Portfolio & Innovation Officer",
+      "reden": "Live vacature (Breda, via Top of Minds), maar inhoudelijk een product-/portfolio-/innovatie-directeursrol, geen strategie-, business development-, marketing- of Chief of Staff-rol; Breda is bovendien een stretch op het ~1 uur reistijdcriterium (60-90 min vanaf Amsterdam).",
+      "datum": "2026-08-06"
+    },
+    {
+      "bedrijf": "Meride",
+      "titel": "Head of Marketing",
+      "reden": "Live vacature (Rijswijk, via Top of Minds), Head of Marketing-rol met duidelijke digitale groeiopdracht, maar ongebruikelijke sector (uitvaartzorg) sluit inhoudelijk minder aan bij SB's consumer/retail-focus dan de overige kandidaten uit deze run.",
+      "datum": "2026-08-06"
+    },
+    {
+      "bedrijf": "Classroomscreen",
+      "titel": "Chief Growth Officer",
+      "reden": "Live vacature (Bunnik, via Top of Minds), C-level groeirol met B2C- en B2B-mandaat en duidelijke senioriteit, maar EdTech valt buiten SB's sectorfocus op consumer/retail.",
+      "datum": "2026-08-06"
     }
   ],
   "notControlled": []
