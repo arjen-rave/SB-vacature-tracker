@@ -1,6 +1,6 @@
 {
-    "lastUpdated": "2026-08-20T09:35:00+02:00",
-        "lastCheckNote": "12 bronnen gecheckt (11 bedrijven + Top of Minds), geen nieuwe matches toegevoegd; alle 5 actieve vacatures geverifieerd nog live.",
+    "lastUpdated": "2026-08-24T09:45:00+02:00",
+    "lastCheckNote": "12 bronnen gecheckt, 1 nieuwe match toegevoegd (PVH/Tommy Hilfiger - Director, Enterprise Strategy); 1 actieve vacature (bol.com Chief of Staff Logistics) niet meer live, gearchiveerd.",
     "active": [
         {
             "bedrijf": "Roland Berger",
@@ -62,18 +62,18 @@
             ]
         },
         {
-            "bedrijf": "bol.com",
-            "titel": "Chief of Staff Logistics",
-            "link": "https://careers.bol.com/en/jobs/chief-of-staff-logistics/8578378002/",
-            "beschrijving": "Chief of Staff voor het logistiek-leiderschapsteam (LSvb) van bol.com: strategische motor achter de scenes die strategie vertaalt naar executie, MT-vergaderingen voorbereidt en aanstuurt, en als vertrouwde sparringpartner fungeert voor senior logistiek-leiderschap op fulfilment, delivery, strategie en partners. Utrecht, 7-10+ jaar ervaring, €6.500-8.400.",
-            "fit": "Chief of Staff-rol bij een groot Nederlands e-commerce/retailbedrijf, met uitdrukkelijk genoemde seniority om 'a true sparring partner to the MT' te zijn — vergelijkbaar qua opzet met haar eerdere CoS-ervaring. Geen teamleiding, en de inhoud is specifiek logistiek-gericht in plaats van brede commerciële strategie, dus iets smaller dan haar consulting-achtergrond in consumer/retail-strategie.",
+            "bedrijf": "PVH (Tommy Hilfiger)",
+            "titel": "Director, Enterprise Strategy",
+            "link": "https://careers.pvh.com/jobs/director-enterprise-strategy-amsterdam-noord-holland-netherlands",
+            "beschrijving": "Director binnen het Brand Strategy-team van Tommy Hilfiger (onderdeel van de Global Brand Organization): vertaalt de lange-termijn merkambitie naar strategische prioriteiten voor Product, Marketing en Consumer Brand Experience, ontwikkelt fact-based aanbevelingen voor senior leiderschap en stuurt strategische afstemming tussen wereldwijde en regionale teams. Amsterdam (hoofdkantoor Tommy Hilfiger), vanaf 8 jaar ervaring in enterprise/corporate/brand strategy, business development of management consulting.",
+            "fit": "Sterke match: Director-niveau strategierol bij een grote internationale fashion/lifestyle-consumentenmerk, expliciet open voor kandidaten met een management consulting-achtergrond, met directe blootstelling aan senior leiderschap en cross-functionele/cross-regionale stakeholders — sluit goed aan bij SB's 11 jaar strategy consulting-ervaring in consumer/retail. Geen expliciete teamleiding vermeld in de vacaturetekst.",
             "status": "Niet gesolliciteerd",
             "tags": [
-                "chief of staff",
-                "e-commerce",
-                "retail",
-                "logistics strategy",
-                "senior"
+                "strategy",
+                "consumer goods",
+                "fashion retail",
+                "senior",
+                "director"
             ]
         }
     ],
@@ -118,25 +118,31 @@
             "bedrijf": "Intersnack Group",
             "titel": "Marketing Director",
             "reden": "Live vacature (Doetinchem, via Top of Minds), sterke inhoudelijke match op senioriteit en sector (Marketing Director, consumer/snacks, vanaf 10 jaar ervaring), maar Doetinchem ligt ver buiten het ~1 uur reistijdcriterium (circa 1u45-2u vanaf Amsterdam met de trein).",
-            "datum": "2026-08-13"
-        },
+"datum": "2026-08-13"
+},
+{
+    "bedrijf": "IXXI",
+    "titel": "Head of Marketing",
+    "reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
+    "datum": "2026-08-13"
+},
+{
+    "bedrijf": "The Greenery",
+    "titel": "Business Development Strateeg",
+    "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
+    "datum": "2026-08-13"
+},
+{
+    "bedrijf": "Tony's Chocolonely",
+    "titel": "Head of Global Brand",
+    "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
+    "datum": "2026-08-17"
+},
         {
-            "bedrijf": "IXXI",
-            "titel": "Head of Marketing",
-            "reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
-            "datum": "2026-08-13"
-        },
-        {
-            "bedrijf": "The Greenery",
-            "titel": "Business Development Strateeg",
-            "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
-            "datum": "2026-08-13"
-        },
-        {
-            "bedrijf": "Tony's Chocolonely",
-            "titel": "Head of Global Brand",
-            "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
-            "datum": "2026-08-17"
+            "bedrijf": "bol.com",
+            "titel": "Chief of Staff Logistics",
+            "reden": "Link niet meer live (geverifieerd 24 augustus 2026: pagina geeft \"Unfortunately. Not found.\" - 404). Bol.com heeft deze run in totaal 67 vacatures doorzocht (alle Vakgebieden), geen vergelijkbare senior strategie/BD/marketing/Chief of Staff-rol als vervanging gevonden.",
+            "datum": "2026-08-24"
         }
     ],
     "notControlled": []
