@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T15:12:00+02:00",
-  "lastCheckNote": "12 bronnen gecheckt (FrieslandCampina, Heineken, Ahold Delhaize, JDE Peet's, bol.com, Unilever, Coolblue, Tony's Chocolonely, Picnic, PVH Europe, Basic-Fit, Top of Minds); geen nieuwe matches toegevoegd. 1 actieve vacature (Ahold Delhaize - Director Of Corporate Strategy) niet meer live, gearchiveerd; vervangende rol bij Ahold Delhaize (Manager Corporate Strategy) is te junior (vanaf 5 jaar ervaring, geen Director-niveau) en daarom niet overgenomen.",
+  "lastUpdated": "2026-09-07T11:44:50+02:00",
+  "lastCheckNote": "12 bronnen gecheckt (FrieslandCampina, Heineken, Ahold Delhaize, JDE Peet's, bol.com, Unilever, Coolblue, Tony's Chocolonely, Picnic, PVH Europe, Basic-Fit, Top of Minds); 2 nieuwe matches toegevoegd (Postcode Loterij - Teamlead Online, VriendenLoterij - Acquisitie & Marketing Lead).",
   "active": [
     {
       "bedrijf": "Roland Berger",
@@ -60,6 +60,34 @@
         "consulting exit",
         "senior"
       ]
+    },
+    {
+      "bedrijf": "Postcode Loterij",
+      "titel": "Teamlead Online",
+      "link": "https://topofminds.com/vacature-teamlead-online-postcode-loterij-26072310230/",
+      "beschrijving": "Stuurt een team van 6 online marketeers aan en haalt het maximale uit acquisitie en conversie over alle online kanalen (CPA, ROI, traffic, conversieratio); bepaalt mede het acquisitie- en mediajaarplan en het online-budget. Amsterdam, rapporteert rechtstreeks aan het Hoofd Marketing.",
+      "fit": "Match op senioriteit (vanaf 8 jaar ervaring, eerdere ervaring met leidinggeven aan een multidisciplinair marketingteam is een harde eis) en teamleiding (6 fte) — een marketing-leiderschapsrol met rechtstreekse rapportagelijn aan het Hoofd Marketing. Sector is een direct-to-consumer abonnementsmodel (kanjer aan naamsbekendheid, performance-driven), iets buiten klassieke consumer goods/retail maar wel duidelijk consumentgericht.",
+      "status": "Niet gesolliciteerd",
+      "tags": [
+        "marketing",
+        "digital marketing",
+        "team lead",
+        "senior"
+      ]
+    },
+    {
+      "bedrijf": "VriendenLoterij",
+      "titel": "Acquisitie & Marketing Lead",
+      "link": "https://topofminds.com/vacature-acquisitie-marketing-lead-vriendenloterij-26072310231/",
+      "beschrijving": "Dubbelrol: leidinggevende van het campagneteam (5 fte) én strategische rechterhand van het Hoofd Marketing. Verantwoordelijk voor omnichannel-campagnes (tv, outdoor, direct mail, online), een campagnebudget van meer dan 10 miljoen euro en de strategische jaarplannen. Amsterdam, rapporteert rechtstreeks aan het Hoofd Marketing.",
+      "fit": "Sterke match: combineert teamleiding (5 fte) met een expliciet strategische rechterhand-rol richting het Hoofd Marketing — vergelijkbaar met SB's eerdere 0,5FTE Chief of Staff-ervaring, nu binnen marketing. Senioriteit (vanaf 8 jaar) en scope (budget >10 miljoen euro) passen bij Senior Manager-niveau. Zelfde sector-kanttekening als Postcode Loterij: direct-to-consumer/liefdadigheidsloterij, niet klassieke consumer goods/retail maar wel sterk consumentgericht.",
+      "status": "Niet gesolliciteerd",
+      "tags": [
+        "marketing",
+        "strategy",
+        "team lead",
+        "senior"
+      ]
     }
   ],
   "archive": [
@@ -103,26 +131,26 @@
       "bedrijf": "Intersnack Group",
       "titel": "Marketing Director",
       "reden": "Live vacature (Doetinchem, via Top of Minds), sterke inhoudelijke match op senioriteit en sector (Marketing Director, consumer/snacks, vanaf 10 jaar ervaring), maar Doetinchem ligt ver buiten het ~1 uur reistijdcriterium (circa 1u45-2u vanaf Amsterdam met de trein).",
-"datum": "2026-08-13"
-},
-{
-  "bedrijf": "IXXI",
-  "titel": "Head of Marketing",
-"reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
-  "datum": "2026-08-13"
-},
-{
-  "bedrijf": "The Greenery",
-  "titel": "Business Development Strateeg",
-  "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
-  "datum": "2026-08-13"
-},
-{
-  "bedrijf": "Tony's Chocolonely",
-  "titel": "Head of Global Brand",
-  "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
-  "datum": "2026-08-17"
-},
+      "datum": "2026-08-13"
+    },
+    {
+      "bedrijf": "IXXI",
+      "titel": "Head of Marketing",
+      "reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
+      "datum": "2026-08-13"
+    },
+    {
+      "bedrijf": "The Greenery",
+      "titel": "Business Development Strateeg",
+      "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
+      "datum": "2026-08-13"
+    },
+    {
+      "bedrijf": "Tony's Chocolonely",
+      "titel": "Head of Global Brand",
+      "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
+      "datum": "2026-08-17"
+    },
     {
       "bedrijf": "bol.com",
       "titel": "Chief of Staff Logistics",
@@ -139,8 +167,8 @@
       "bedrijf": "Ahold Delhaize",
       "titel": "Director Of Corporate Strategy",
       "reden": "Link niet meer live (geverifieerd 3 september 2026: careers.aholddelhaize.com/vacancy/3215/director-corporate-strategy geeft een 404-pagina). De rol lijkt vervangen door \"Manager Corporate Strategy\" (Zaandam, vacancy/3296), maar die is aanmerkelijk lager qua senioriteit (gevraagd vanaf 5 jaar ervaring, salarisrange 80.000-115.000, Manager- in plaats van Director-titel) en is daarom niet overgenomen als vervanging.",
-"datum": "2026-09-03"
-}
-],
-"notControlled": []
+      "datum": "2026-09-03"
+    }
+  ],
+  "notControlled": []
 }
