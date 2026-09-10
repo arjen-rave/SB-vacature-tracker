@@ -1,22 +1,7 @@
 {
-  "lastUpdated": "2026-09-07T11:44:50+02:00",
-  "lastCheckNote": "12 bronnen gecheckt (FrieslandCampina, Heineken, Ahold Delhaize, JDE Peet's, bol.com, Unilever, Coolblue, Tony's Chocolonely, Picnic, PVH Europe, Basic-Fit, Top of Minds); 2 nieuwe matches toegevoegd (Postcode Loterij - Teamlead Online, VriendenLoterij - Acquisitie & Marketing Lead).",
+  "lastUpdated": "2026-09-10T11:00:46+02:00",
+  "lastCheckNote": "12 bronnen gecheckt (FrieslandCampina, Heineken, Ahold Delhaize, JDE Peet's, bol.com, Unilever, Coolblue, Tony's Chocolonely, Picnic, PVH Europe, Basic-Fit, Top of Minds); 1 nieuwe match toegevoegd (PVH - Senior Director of Strategy, PVH EMEA); 2 items verplaatst naar archief na handmatige statuswijziging op de site (Roland Berger, PF Concept).",
   "active": [
-    {
-      "bedrijf": "Roland Berger",
-      "titel": "Chief of Staff (Consumer Goods, Retail & Agriculture platform)",
-      "link": "https://topofminds.com/en/vacancy-chief-of-staff-roland-berger/",
-      "beschrijving": "Chief of Staff voor Alexander Belderok, Platform Head van Roland Bergers wereldwijde Consumer Goods, Retail & Agriculture-platform: eigenaar van de operationele backbone (business reviews, commercial pipeline, budgetten, MT-voorbereiding) en strategische rechterhand die knelpunten signaleert voordat ze escaleren. Amsterdam, vanaf 7 jaar ervaring, af en toe reizen.",
-      "fit": "Sterke match: consulting-achtergrond expliciet vereist, affiniteit met retail/consumer goods een harde eis, en een consulting-exit-vriendelijke Chief of Staff-rol bij het platform dat zij als voormalig consultant zelf zou herkennen. Geen expliciete people-management-eis (rechterhand-rol zonder teamleiding) — vergelijkbaar met haar eerdere 0,5FTE CoS-ervaring voor de European Cyber leader.",
-      "status": "Niet interessant",
-      "tags": [
-        "chief of staff",
-        "consumer goods",
-        "retail",
-        "strategy consulting",
-        "senior"
-      ]
-    },
     {
       "bedrijf": "Unidex",
       "titel": "Sales Director Retail",
@@ -30,21 +15,6 @@
         "business development",
         "team lead",
         "senior"
-      ]
-    },
-    {
-      "bedrijf": "PF Concept",
-      "titel": "Marketing Director",
-      "link": "https://topofminds.com/en/vacature-marketing-director-pf-concept/",
-      "beschrijving": "Marketing Director voor deze Europese marktleider in promotieartikelen (B2B2B-model, 200+ miljoen euro omzet, 10.000+ distributeurs): eigenaar van de commerciële groeiagenda (klantbetrokkenheid, distributeur-acquisitie, share of wallet), vertaalt de duurzaamheidsstrategie naar een propositie voor distributeurs, en geeft leiding aan een team van circa 10 marketingprofessionals. Leiden, rapporteert aan de CCO, vanaf 10 jaar B2B-marketingervaring.",
-      "fit": "Sterke match op senioriteit (Director, rechtstreeks aan CCO), teamleiding (10 FTE, uitdrukkelijk gevraagd als 'coaching people leader') en de combinatie van strategie en commerciële executie. Leiden ligt ~35 min van Amsterdam.",
-      "status": "Niet interessant",
-      "tags": [
-        "marketing strategy",
-        "b2b",
-        "team lead",
-        "senior",
-        "consumer"
       ]
     },
     {
@@ -87,6 +57,20 @@
         "strategy",
         "team lead",
         "senior"
+      ]
+    },
+    {
+      "bedrijf": "PVH (Tommy Hilfiger & Calvin Klein)",
+      "titel": "Senior Director of Strategy, PVH EMEA",
+      "link": "https://careers.pvh.com/jobs/senior-director-of-strategy-pvh-emea-amsterdam-noord-holland-netherlands-da6c7b4b-db42-440e-83f4-ad7172971fd4",
+      "beschrijving": "Senior Director binnen het EMEA Strategy-team van PVH: stuurt, samen met de SVP Strategy, de uitvoering van het PVH+ strategisch plan over de hele EMEA-regio aan, monitort de voortgang en vertaalt strategische prioriteiten naar meetbare doelen voor merken, hubs en functies. Rapporteert aan de SVP, Strategy, werkt nauw samen met de EMEA CEO en het EMEA Leadership Team. Amsterdam.",
+      "fit": "Sterke match op senioriteit en profiel: minimaal 10 jaar top-tier strategy consulting vereist (SB heeft 11 jaar bij Monitor Deloitte) en een Senior Director-titel die rechtstreeks rapporteert aan de SVP Strategy. Kanttekening: de vacature vraagt daarnaast expliciet 3-5 jaar corporate ervaring binnen consumer goods/retail/fashion/luxury bij een bedrijf zelf (niet als consultant) — dat is een mogelijk gat, aangezien SB's ervaring volledig in consulting ligt. Geen expliciete teamleiding genoemd. PVH-vacatures verdwijnen historisch snel, dus tijdgevoelig.",
+      "status": "Niet gesolliciteerd",
+      "tags": [
+        "strategy",
+        "fashion",
+        "consulting exit",
+        "senior director"
       ]
     }
   ],
@@ -131,44 +115,56 @@
       "bedrijf": "Intersnack Group",
       "titel": "Marketing Director",
       "reden": "Live vacature (Doetinchem, via Top of Minds), sterke inhoudelijke match op senioriteit en sector (Marketing Director, consumer/snacks, vanaf 10 jaar ervaring), maar Doetinchem ligt ver buiten het ~1 uur reistijdcriterium (circa 1u45-2u vanaf Amsterdam met de trein).",
-      "datum": "2026-08-13"
-    },
-    {
-      "bedrijf": "IXXI",
-      "titel": "Head of Marketing",
-      "reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
-      "datum": "2026-08-13"
-    },
-    {
-      "bedrijf": "The Greenery",
-      "titel": "Business Development Strateeg",
-      "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
-      "datum": "2026-08-13"
-    },
-    {
-      "bedrijf": "Tony's Chocolonely",
-      "titel": "Head of Global Brand",
-      "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
-      "datum": "2026-08-17"
-    },
-    {
-      "bedrijf": "bol.com",
-      "titel": "Chief of Staff Logistics",
-      "reden": "Link niet meer live (geverifieerd 24 augustus 2026: pagina geeft \"Unfortunately. Not found.\" - 404). Bol.com heeft deze run in totaal 67 vacatures doorzocht (alle Vakgebieden), geen vergelijkbare senior strategie/BD/marketing/Chief of Staff-rol als vervanging gevonden.",
-      "datum": "2026-08-24"
-    },
-    {
-      "bedrijf": "PVH (Tommy Hilfiger)",
-      "titel": "Director, Enterprise Strategy",
-      "reden": "Link niet meer live (geverifieerd 27 augustus 2026: pagina geeft 404/\"page not found\"). PVH is deze run uitputtend doorzocht via het categoriefilter (alle Nederlandse vacatures binnen Marketing (7 items), Design (3), HR (1) en Other (1) zijn stuk voor stuk gecontroleerd, plus alle overige categorieën stonden op 0) — geen vergelijkbare senior strategie/BD/marketing/Chief of Staff-rol als vervanging gevonden. Bekend patroon: dit is de zoveelste PVH Director/Senior Director-titel die binnen enkele weken na plaatsing weer verdwijnt.",
-      "datum": "2026-08-27"
-    },
-    {
-      "bedrijf": "Ahold Delhaize",
-      "titel": "Director Of Corporate Strategy",
-      "reden": "Link niet meer live (geverifieerd 3 september 2026: careers.aholddelhaize.com/vacancy/3215/director-corporate-strategy geeft een 404-pagina). De rol lijkt vervangen door \"Manager Corporate Strategy\" (Zaandam, vacancy/3296), maar die is aanmerkelijk lager qua senioriteit (gevraagd vanaf 5 jaar ervaring, salarisrange 80.000-115.000, Manager- in plaats van Director-titel) en is daarom niet overgenomen als vervanging.",
-      "datum": "2026-09-03"
-    }
-  ],
-  "notControlled": []
+"datum": "2026-08-13"
+},
+{
+  "bedrijf": "IXXI",
+  "titel": "Head of Marketing",
+  "reden": "Live vacature (Nijmegen, via Top of Minds), Head of Marketing-rol bij een onderscheidend e-commercebedrijf met duidelijke commerciële/marketingstrategie-inhoud, maar Nijmegen ligt buiten het ~1 uur reistijdcriterium (circa 1u20-1u30 vanaf Amsterdam met de trein).",
+  "datum": "2026-08-13"
+},
+{
+  "bedrijf": "The Greenery",
+  "titel": "Business Development Strateeg",
+  "reden": "Live vacature (Barendrecht, via Top of Minds), inhoudelijk relevant (business development/strategie-uitrol), maar senioriteitsniveau te laag: gevraagd vanaf 5 jaar werkervaring, een individueel-bijdragende consultant/strateeg-rol zonder Director/Head-titel of teamleiding.",
+  "datum": "2026-08-13"
+},
+{
+  "bedrijf": "Tony's Chocolonely",
+  "titel": "Head of Global Brand",
+  "reden": "Vacature niet meer live (geverifieerd 17 augustus 2026: link geeft \"We couldn't find this job\" - pagina niet gevonden). Bij Tony's staan nu alleen nog BI Developer, Legal Counsel Regulatory en Senior Business Controller - Supply Chain/Operations open in Nederland, geen match voor SB's profiel.",
+  "datum": "2026-08-17"
+},
+{
+  "bedrijf": "bol.com",
+  "titel": "Chief of Staff Logistics",
+  "reden": "Link niet meer live (geverifieerd 24 augustus 2026: pagina geeft \"Unfortunately. Not found.\" - 404). Bol.com heeft deze run in totaal 67 vacatures doorzocht (alle Vakgebieden), geen vergelijkbare senior strategie/BD/marketing/Chief of Staff-rol als vervanging gevonden.",
+  "datum": "2026-08-24"
+},
+{
+  "bedrijf": "PVH (Tommy Hilfiger)",
+  "titel": "Director, Enterprise Strategy",
+  "reden": "Link niet meer live (geverifieerd 27 augustus 2026: pagina geeft 404/\"page not found\"). PVH is deze run uitputtend doorzocht via het categoriefilter (alle Nederlandse vacatures binnen Marketing (7 items), Design (3), HR (1) en Other (1) zijn stuk voor stuk gecontroleerd, plus alle overige categorieën stonden op 0) — geen vergelijkbare senior strategie/BD/marketing/Chief of Staff-rol als vervanging gevonden. Bekend patroon: dit is de zoveelste PVH Director/Senior Director-titel die binnen enkele weken na plaatsing weer verdwijnt.",
+  "datum": "2026-08-27"
+},
+{
+  "bedrijf": "Ahold Delhaize",
+  "titel": "Director Of Corporate Strategy",
+  "reden": "Link niet meer live (geverifieerd 3 september 2026: careers.aholddelhaize.com/vacancy/3215/director-corporate-strategy geeft een 404-pagina). De rol lijkt vervangen door \"Manager Corporate Strategy\" (Zaandam, vacancy/3296), maar die is aanmerkelijk lager qua senioriteit (gevraagd vanaf 5 jaar ervaring, salarisrange 80.000-115.000, Manager- in plaats van Director-titel) en is daarom niet overgenomen als vervanging.",
+  "datum": "2026-09-03"
+},
+{
+  "bedrijf": "Roland Berger",
+  "titel": "Chief of Staff (Consumer Goods, Retail & Agriculture platform)",
+  "reden": "Handmatig gemarkeerd als 'Niet interessant' op de site.",
+  "datum": "2026-09-10"
+},
+{
+  "bedrijf": "PF Concept",
+  "titel": "Marketing Director",
+  "reden": "Handmatig gemarkeerd als 'Niet interessant' op de site.",
+  "datum": "2026-09-10"
+}
+],
+"notControlled": []
 }
